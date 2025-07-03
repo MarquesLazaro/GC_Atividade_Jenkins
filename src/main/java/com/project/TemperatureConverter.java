@@ -1,6 +1,6 @@
 package com.project;
 
-public class TemperatureConverter {
+public TemperatureConverter {
     public static double fahrenheitToCelsius(double fahrenheit){
         return ((fahrenheit - 32) * 5) / 9;
     }
